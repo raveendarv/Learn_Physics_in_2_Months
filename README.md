@@ -1,7 +1,5 @@
 # Learn_Physics_in_2_Months
 
-This is the curriculum for "Learn Physics in 2 Months" by Siraj Raval on Youtube. [This](https://youtu.be/RGD6KQ6bRS8) video.
-
 ##### Why Learn Physics?
 - It's fundamentally helped us build modern civilization. 
 - It's used in Quantum Computing
@@ -90,7 +88,3 @@ https://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf-
 Final Exam 
 http://www-personal.umich.edu/~jbourj/peskin/Quantum%20Field%20Theory%20II%20homeworks.pdf
 
-
-
-*Additional Resources:*   
-- Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com"). Join the "Physics" channel.
